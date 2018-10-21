@@ -1,7 +1,7 @@
 {
   "main.css": "/pandascript/static/css/main.bba1ff8e.chunk.css",
-  "main.js": "/pandascript/static/js/main.87f04a05.chunk.js",
-  "main.js.map": "/pandascript/static/js/main.87f04a05.chunk.js.map",
+  "main.js": "/pandascript/static/js/main.02f75870.chunk.js",
+  "main.js.map": "/pandascript/static/js/main.02f75870.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/pandascript/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/pandascript/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/pandascript/static/js/runtime~main.bcbca198.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/pandascript/static/media/logo.5d5d9eef.svg",
   "static/css/main.bba1ff8e.chunk.css.map": "/pandascript/static/css/main.bba1ff8e.chunk.css.map",
   "index.html": "/pandascript/index.html",
-  "precache-manifest.50edb1a0df56ba7f202b26809a6f27e1.js": "/pandascript/precache-manifest.50edb1a0df56ba7f202b26809a6f27e1.js",
+  "precache-manifest.3cec00b43512bcf07857af2c89a09768.js": "/pandascript/precache-manifest.3cec00b43512bcf07857af2c89a09768.js",
   "service-worker.js": "/pandascript/service-worker.js"
 }

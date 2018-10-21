@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/pandascript/static/js/runtime~main.bcbca198.js"
   },
   {
-    "revision": "87f04a05ec148eaa4c74",
-    "url": "/pandascript/static/js/main.87f04a05.chunk.js"
+    "revision": "02f7587070b97c888c69",
+    "url": "/pandascript/static/js/main.02f75870.chunk.js"
   },
   {
     "revision": "6105a37ce77693a684b2",
     "url": "/pandascript/static/js/1.6105a37c.chunk.js"
   },
   {
-    "revision": "87f04a05ec148eaa4c74",
+    "revision": "02f7587070b97c888c69",
     "url": "/pandascript/static/css/main.bba1ff8e.chunk.css"
   },
   {
-    "revision": "9f32f4e4d40d361cfcabf3a2ac965b2a",
+    "revision": "f604bea07840a26b4aea6d00071c2254",
     "url": "/pandascript/index.html"
   }
 ];
