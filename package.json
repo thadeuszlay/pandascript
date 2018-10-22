@@ -2,7 +2,7 @@
   "name": "pandascript_181021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thadeusz.github.io/pandascript/",
+  "homepage": "https://thadeuszlay.github.io/pandascript/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",

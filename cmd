@@ -1,5 +1,7 @@
 npm install -g create-react-app
-create-react-app website
+create-react-app myWebsite
+# go to the myWebsite
+cd myWebsite
 npm start
 # create git repo
 # init git
